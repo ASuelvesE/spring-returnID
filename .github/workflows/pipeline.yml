@@ -3,7 +3,7 @@ name: Integración Continua Maven
 on:
   push:
     branches:
-      - Master
+      - master
 
 jobs:
   Start_test:
